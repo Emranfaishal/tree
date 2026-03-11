@@ -1,7 +1,9 @@
-@import "tailwindcss";
+.btn-pp {
+    background-color: #15803D;
+    color: white;
+    border: none;
+}
 
-.btn-primary {
-  background-color: #4ade80;
-  color: white;
-  border: none;
+.inter-font {
+     font-family: "Inter", sans-serif;
 }
